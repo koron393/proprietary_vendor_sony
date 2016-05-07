@@ -16,27 +16,6 @@
 
 PRODUCT_COPY_FILES += \
     vendor/sony/scorpion/proprietary/etc/firmware/BCM43xx.hcd:system/etc/firmware/BCM43xx.hcd \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b00:system/etc/firmware/modem.b00 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b01:system/etc/firmware/modem.b01 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b02:system/etc/firmware/modem.b02 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b03:system/etc/firmware/modem.b03 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b06:system/etc/firmware/modem.b06 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b08:system/etc/firmware/modem.b08 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b09:system/etc/firmware/modem.b09 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b11:system/etc/firmware/modem.b11 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b12:system/etc/firmware/modem.b12 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b13:system/etc/firmware/modem.b13 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b14:system/etc/firmware/modem.b14 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b15:system/etc/firmware/modem.b15 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b16:system/etc/firmware/modem.b16 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b17:system/etc/firmware/modem.b17 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b18:system/etc/firmware/modem.b18 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b19:system/etc/firmware/modem.b19 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b22:system/etc/firmware/modem.b22 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b23:system/etc/firmware/modem.b23 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b24:system/etc/firmware/modem.b24 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.b25:system/etc/firmware/modem.b25 \
-    vendor/sony/scorpion/proprietary/etc/firmware/modem.mdt:system/etc/firmware/modem.mdt \
     vendor/sony/scorpion/proprietary/etc/tfa98xx/FMSpeaker_btm.eq:system/etc/tfa98xx/FMSpeaker_btm.eq \
     vendor/sony/scorpion/proprietary/etc/tfa98xx/FMSpeaker_btm.preset:system/etc/tfa98xx/FMSpeaker_btm.preset \
     vendor/sony/scorpion/proprietary/etc/tfa98xx/FMSpeaker_top.eq:system/etc/tfa98xx/FMSpeaker_top.eq \
