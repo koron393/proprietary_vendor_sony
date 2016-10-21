@@ -35,3 +35,4 @@ PRODUCT_PACKAGES += \
 	fw_bcmdhd_apsta
 
 $(call inherit-product, vendor/sony/scorpion/scorpion-vendor-blobs.mk)
+$(call inherit-product-if-exists, vendor/qcom/firmware/qcom-modem-firmware.mk)
