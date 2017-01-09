@@ -25,12 +25,15 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shinano-common-widevine/proprietary/etc/firmware/tzwvcpybuf.flist:system/etc/firmware/tzwvcpybuf.flist \
     vendor/sony/shinano-common-widevine/proprietary/etc/firmware/tzwvcpybuf.mdt:system/etc/firmware/tzwvcpybuf.mdt \
     vendor/sony/shinano-common-widevine/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
-    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
+    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/lib_asb_tee.so:system/vendor/lib/lib_asb_tee.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libkeyctrl.so:system/vendor/lib/libkeyctrl.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libnpfinal.so:system/vendor/lib/libnpfinal.so \
-    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/liboemcrypto.so:system/vendor/lib/liboemcrypto.so \
+    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libscdclient.so:system/vendor/lib/libscdclient.so \
+    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
