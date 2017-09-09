@@ -27,6 +27,9 @@ PRODUCT_COPY_FILES += \
     vendor/sony/shinano-common-widevine/proprietary/etc/permissions/com.google.widevine.software.drm.xml:system/etc/permissions/com.google.widevine.software.drm.xml \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/lib_asb_tee.so:system/vendor/lib/lib_asb_tee.so \
+    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptX-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so:system/vendor/lib/libaptXHD-1.0.0-rel-Android21-ARMv7A.so \
+    vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libaptXScheduler.so:system/vendor/lib/libaptXScheduler.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libbtnv.so:system/vendor/lib/libbtnv.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/sony/shinano-common-widevine/proprietary/vendor/lib/libkeyctrl.so:system/vendor/lib/libkeyctrl.so \
